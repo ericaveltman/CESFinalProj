@@ -11,6 +11,7 @@ This project is a 35mm film project that moves film left and right.
 - 4x4 Matrix Keypad
 - wires
 - camera lens
+- flashlight
 
 ### Connections:
 - Stepper Motor/Driver: The power and ground are connected to 5V power and ground on the breadboard. In 1 is connected to GPIO 4, In 2 to GPIO 0, In 3 to GPIO 2 and In 4 to GPIO 15.<br>
