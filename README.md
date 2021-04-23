@@ -15,10 +15,10 @@ Stepper Motor/Driver: The power and ground are connected to 5V power and ground 
 Matrix Keypad: From left to right, the inputs are: GPIO 25, 26, 27 14, 13, 21, 22 and 23. 
 
 How To Run (Step by Step):
-ESP32 code
-Upload the .ino file to your ESP32 (or other micro controller).
-Physical Projector:
-Make sure that the first frame of your negative is the one in view.
-First input the number of frames, total, on your negative strip. 
-End all inputs with a *.
-All numbers following will the frame number to view.
+ESP32 code<br>
+Upload the .ino file to your ESP32 (or other micro controller).<br>
+Physical Projector:<br>
+Make sure that the first frame of your negative is the one in view.<br>
+First input the number of frames, total, on your negative strip. <br>
+End all inputs with a *.<br>
+All numbers following will be the frame number to view.<br>
